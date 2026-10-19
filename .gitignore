@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Sensitive Secrets (GitHub Push Protection)
+firebase_credentials.json
+
+# Test artifacts
+out.txt
+
+# OS Files
+.DS_Store
+Thumbs.db

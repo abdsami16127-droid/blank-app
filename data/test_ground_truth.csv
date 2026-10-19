@@ -1,0 +1,18 @@
+review_text,ground_truth_sentiment,ground_truth_issue
+"Battery dies after only 3 hours of light usage.",Negative,Poor Battery Life
+"The charge runs down very quickly even when idle.",Negative,Poor Battery Life
+"Cannot get through half a workday without recharging.",Negative,Poor Battery Life
+"Bluetooth connection drops out every time I put it in my bag.",Negative,Connectivity Issue
+"Keeps losing wireless pairing with my phone.",Negative,Connectivity Issue
+"Bluetooth unpairs constantly during conference calls.",Negative,Connectivity Issue
+"Package arrived over two weeks late with no tracking update.",Negative,Shipping Delay
+"Delivery was delayed repeatedly without any communication.",Negative,Shipping Delay
+"Tracking showed delayed status for over twelve days.",Negative,Shipping Delay
+"The mobile application crashes the moment I open it.",Negative,App Stability
+"App freezes up whenever I try to navigate the menu.",Negative,App Stability
+"Constant app crashes make the software impossible to use.",Negative,App Stability
+"Outstanding sound clarity and very comfortable fit.",Positive,General Positive
+"Truly wonderful build quality and works exactly as expected.",Positive,General Positive
+"Extremely happy with this purchase, worth every penny.",Positive,General Positive
+"Standard product packaging, arrived in regular condition.",Neutral,General Neutral
+"It performs adequately for basic tasks, neither good nor bad.",Neutral,General Neutral
